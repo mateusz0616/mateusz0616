@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/mACiRE5HiqioJDdeSR.webp">
 
 
-### I am a final-year **Data Science** student at **Politechnika Bydgoska**.<br> <br> **What I do:**<br>👨‍🔬 Data collection, Data cleaning, and wrangling.<br>🔭 Exploratory Data Analysis (EDA) and statistical analysis.<br>📊 Building business dashboards.<br>🧠 I am actively learning **ML/AI**.<br>🤝 Currently looking for an **internship** in **Data Analytics / Data Science**. <br><br>**Additional Information**<br>🌍 I am currently based in **Poland**. <br>🗣️ I can speak  **4** languages (English,Poland,Germany,Russian).<br>📬 You can contact me at (Email,LinkedIn).<br>💡 Open to **new projects and opportunities**!  <br>
+### I am a final-year **Data Science** student at **Politechnika Bydgoska**.<br> <br> **What I do:**<br>👨‍🔬 Data collection, Data cleaning, and wrangling.<br>🔭 Exploratory Data Analysis (EDA) and statistical analysis.<br>📊 Building business dashboards.<br>🧠 I am actively learning **ML/AI**.<br>🤝 Currently looking for an **internship** in **Data Analytics / Data Science**. <br><br>**Additional Information**<br>🌍 I am currently based in **Poland**. <br>🗣️ I speak  **4** languages (English,Poland,Germany,Russian).<br>📬 You can contact me at (Email,LinkedIn).<br>💡 Open to **new projects and opportunities**!  <br>
 
 
 
